@@ -1,3 +1,5 @@
 # Actividad1
 Primer Evento evaluativo programacion de software 2025-2
-Integrantes: emely loaiza
+Integrantes: 
+- Emely Loaiza
+- Cristian Calle
